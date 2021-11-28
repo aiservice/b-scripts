@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我打得真的是篮球","leading_role":"易文三不知","image_path_min":"files/book/cover/65271/cover_120.jpg","author_name":"易文三不知","image_path":"files/book/cover/65271/cover.jpg","customer_url":"s2-wodadezhendeshilanqiu"}]

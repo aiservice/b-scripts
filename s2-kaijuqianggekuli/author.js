@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"NBA最强太子爷","leading_role":"笔下生滑","image_path_min":"files/book/cover/63499/cover_120.jpg","author_name":"笔下生滑","image_path":"files/book/cover/63499/cover.jpg","customer_url":"s2-nbazuiqiangtaiziye"}]

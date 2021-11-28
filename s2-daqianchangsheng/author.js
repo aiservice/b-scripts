@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超脑太监","leading_role":"萧舒","image_path_min":"files/book/cover/63271/cover_120.jpg","author_name":"萧舒","image_path":"files/book/cover/63271/cover.jpg","customer_url":"s2-chaonaotaijian"}]

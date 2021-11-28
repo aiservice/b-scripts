@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"旋风太极李二海","leading_role":"琅琊居","image_path_min":"files/book/cover/62749/cover_120.jpg","author_name":"琅琊居","image_path":"files/book/cover/62749/cover.jpg","customer_url":"s2-xuanfengtaijilierhai"}]

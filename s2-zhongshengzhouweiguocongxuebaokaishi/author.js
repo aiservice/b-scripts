@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"无限军功从亮剑副本开始","leading_role":"深思文学","image_path_min":"files/book/cover/63342/cover_120.jpg","author_name":"深思文学","image_path":"files/book/cover/63342/cover.jpg","customer_url":"s2-wuxianjungongcongliangjianfubenkaishi"}]

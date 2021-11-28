@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真的是个内线","leading_role":"葛洛夫街兄弟","image_path_min":"files/book/cover/62897/cover_120.jpg","author_name":"葛洛夫街兄弟","image_path":"files/book/cover/62897/cover.jpg","customer_url":"s2-wozhendeshigeneixian"}]

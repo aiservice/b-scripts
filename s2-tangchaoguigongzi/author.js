@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"明朝败家子","leading_role":"方继藩","image_path_min":"files/book/cover/44506/cover_120.jpg","author_name":"上山打老虎额","image_path":"files/book/cover/44506/cover.jpg","customer_url":"mingchaobaijiazi"}]

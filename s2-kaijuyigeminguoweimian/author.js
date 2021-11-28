@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诸天从茅山开始","leading_role":"龙升云霄","image_path_min":"files/book/cover/65204/cover_120.jpg","author_name":"龙升云霄","image_path":"files/book/cover/65204/cover.jpg","customer_url":"s2-zhutiancongmaoshankaishi"}]

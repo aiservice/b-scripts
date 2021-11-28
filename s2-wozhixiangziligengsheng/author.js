@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真不想跟神仙打架","leading_role":"中秋月明","image_path_min":"files/book/cover/65296/cover_120.jpg","author_name":"中秋月明","image_path":"files/book/cover/65296/cover.jpg","customer_url":"s2-wozhenbuxianggenshenxiandajia"}]

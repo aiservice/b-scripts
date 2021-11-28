@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"饲养全人类","leading_role":"三百斤的微笑","image_path_min":"files/book/cover/64109/cover_120.jpg","author_name":"三百斤的微笑","image_path":"files/book/cover/64109/cover.jpg","customer_url":"s2-siyangquanrenlei"}]

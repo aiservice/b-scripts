@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"综武江湖：我为大理寺卿","leading_role":"墨观澜","image_path_min":"files/book/cover/64384/cover_120.jpg","author_name":"墨观澜","image_path":"files/book/cover/64384/cover.jpg","customer_url":"s2-zongwujianghuwoweidalisiqing"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我加载了恋爱游戏","leading_role":"掠过的乌鸦","image_path_min":"files/book/cover/63034/cover_120.jpg","author_name":"掠过的乌鸦","image_path":"files/book/cover/63034/cover.jpg","customer_url":"s2-wojiazailelianaiyouxi"}]

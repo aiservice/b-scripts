@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超凡大航海","leading_role":"北海牧鲸","image_path_min":"files/book/cover/63127/cover_120.jpg","author_name":"北海牧鲸","image_path":"files/book/cover/63127/cover.jpg","customer_url":"s2-chaofandahanghai"}]

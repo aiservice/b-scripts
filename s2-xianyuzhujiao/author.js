@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"深渊主教","leading_role":"体三爷","image_path_min":"files/book/cover/62890/cover_120.jpg","author_name":"体三爷","image_path":"files/book/cover/62890/cover.jpg","customer_url":"s2-shenyuanzhujiao"}]

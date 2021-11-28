@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"机破星河","leading_role":"沐凡","image_path_min":"files/book/cover/21434/cover_120.jpg","author_name":"当年离歌","image_path":"files/book/cover/21434/cover.jpg","customer_url":"jipoxinghe"}]

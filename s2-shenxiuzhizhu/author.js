@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"逍遥梦路","leading_role":"文抄公","image_path_min":"files/book/cover/23140/cover_120.jpg","author_name":"文抄公","image_path":"files/book/cover/23140/cover.jpg","customer_url":"xiaoyaomenglu"}]

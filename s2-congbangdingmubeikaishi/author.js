@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诡异复生时","leading_role":"墓碑石钉头","image_path_min":"files/book/cover/62986/cover_120.jpg","author_name":"墓碑石钉头","image_path":"files/book/cover/62986/cover.jpg","customer_url":"s2-guiyifushengshi"}]

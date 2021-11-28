@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我在地下交通站里当贾贵","leading_role":"石唯","image_path_min":"files/book/cover/63759/cover_120.jpg","author_name":"石唯","image_path":"files/book/cover/63759/cover.jpg","customer_url":"s2-wozaidixiajiaotongzhanlidangjiagui"}]

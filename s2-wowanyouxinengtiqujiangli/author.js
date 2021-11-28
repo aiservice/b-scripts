@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"牛头人只想好好活着","leading_role":"酉卒日天","image_path_min":"files/book/cover/64294/cover_120.jpg","author_name":"酉卒日天","image_path":"files/book/cover/64294/cover.jpg","customer_url":"s2-niutourenzhixianghaohaohuozhe"}]

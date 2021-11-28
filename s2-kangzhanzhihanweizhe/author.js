@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从亮剑开始搞军工","leading_role":"歪打不留一","image_path_min":"files/book/cover/64244/cover_120.jpg","author_name":"歪打不留一","image_path":"files/book/cover/64244/cover.jpg","customer_url":"s2-congliangjiankaishigaojungong"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"道门法则","leading_role":"八宝饭","image_path_min":"files/book/cover/31761/cover_120.jpg","author_name":"八宝饭","image_path":"files/book/cover/31761/cover.jpg","customer_url":"daomenfaze"}]

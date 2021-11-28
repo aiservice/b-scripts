@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大唐再起","leading_role":"飞天缆车","image_path_min":"files/book/cover/63771/cover_120.jpg","author_name":"飞天缆车","image_path":"files/book/cover/63771/cover.jpg","customer_url":"s2-datangzaiqi"}]

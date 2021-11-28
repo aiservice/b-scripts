@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我非痴愚实乃纯良","leading_role":"怪诞的表哥","image_path_min":"files/book/cover/63406/cover_120.jpg","author_name":"怪诞的表哥","image_path":"files/book/cover/63406/cover.jpg","customer_url":"s2-wofeichiyushinaichunliang"}]

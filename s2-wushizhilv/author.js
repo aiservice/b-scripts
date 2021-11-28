@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"格兰自然科学院","leading_role":"一行白鹭上青天","image_path_min":"files/book/cover/63224/cover_120.jpg","author_name":"一行白鹭上青天","image_path":"files/book/cover/63224/cover.jpg","customer_url":"s2-gelanzirankexueyuan"}]

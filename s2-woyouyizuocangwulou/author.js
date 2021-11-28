@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"神话从童子功开始","leading_role":"紫衣居士","image_path_min":"files/book/cover/64752/cover_120.jpg","author_name":"紫衣居士","image_path":"files/book/cover/64752/cover.jpg","customer_url":"s2-shenhuacongtongzigongkaishi"}]

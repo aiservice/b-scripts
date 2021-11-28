@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"穿越1630之崛起南美","leading_role":"孤独麦客","image_path_min":"files/book/cover/22197/cover_120.jpg","author_name":"孤独麦客","image_path":"files/book/cover/22197/cover.jpg","customer_url":"chuanyue1630zhijueqinanmei"}]

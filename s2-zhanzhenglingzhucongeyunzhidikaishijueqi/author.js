@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"厄运之女必须死","leading_role":"凶凶骑士","image_path_min":"files/book/cover/65149/cover_120.jpg","author_name":"凶凶骑士","image_path":"files/book/cover/65149/cover.jpg","customer_url":"s2-eyunzhinvbixusi"}]

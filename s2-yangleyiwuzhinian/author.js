@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球迈入神话时代","leading_role":"最终永恒","image_path_min":"files/book/cover/63505/cover_120.jpg","author_name":"最终永恒","image_path":"files/book/cover/63505/cover.jpg","customer_url":"s2-quanqiumairushenhuashidai"}]

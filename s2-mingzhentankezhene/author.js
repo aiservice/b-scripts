@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从柯镇恶开始逆天改命","leading_role":"熊猫庞大","image_path_min":"files/book/cover/63893/cover_120.jpg","author_name":"熊猫庞大","image_path":"files/book/cover/63893/cover.jpg","customer_url":"s2-congkezhenekaishinitiangaiming"}]

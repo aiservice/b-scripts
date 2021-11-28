@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"孤岛谍战","leading_role":"可大可小","image_path_min":"files/book/cover/62763/cover_120.jpg","author_name":"可大可小","image_path":"files/book/cover/62763/cover.jpg","customer_url":"s2-gudaodiezhan"}]

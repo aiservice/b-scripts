@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我在江湖逃亡的日子","leading_role":"江户川东南","image_path_min":"files/book/cover/63953/cover_120.jpg","author_name":"江户川东南","image_path":"files/book/cover/63953/cover.jpg","customer_url":"s2-wozaijianghutaowangderizi"}]

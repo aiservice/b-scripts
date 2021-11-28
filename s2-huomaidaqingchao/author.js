@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大宋有种","leading_role":"大罗罗","image_path_min":"files/book/cover/63390/cover_120.jpg","author_name":"大罗罗","image_path":"files/book/cover/63390/cover.jpg","customer_url":"s2-dasongyouzhong"}]

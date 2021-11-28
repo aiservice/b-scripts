@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我家老婆来自一千年前","leading_role":"花还没开","image_path_min":"files/book/cover/63065/cover_120.jpg","author_name":"花还没开","image_path":"files/book/cover/63065/cover.jpg","customer_url":"s2-wojialaopolaiziyiqiannianqian"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"崛起诸天","leading_role":"冬日之阳","image_path_min":"files/book/cover/28383/cover_120.jpg","author_name":"冬日之阳","image_path":"files/book/cover/28383/cover.jpg","customer_url":"jueqizhutian"}]

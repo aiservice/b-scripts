@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我能看见状态提示！","leading_role":"职业啊发","image_path_min":"files/book/cover/62631/cover_120.jpg","author_name":"职业啊发","image_path":"files/book/cover/62631/cover.jpg","customer_url":"s2-wonengkanjianzhuangtaitishi"}]

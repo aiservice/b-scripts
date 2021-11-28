@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真的不想喷人啊","leading_role":"严七官","image_path_min":"files/book/cover/62500/cover_120.jpg","author_name":"严七官","image_path":"files/book/cover/62500/cover.jpg","customer_url":"s2-wozhendebuxiangpenrena"}]

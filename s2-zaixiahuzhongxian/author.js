@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的女友是恶女","leading_role":"海底漫步者","image_path_min":"files/book/cover/31299/cover_120.jpg","author_name":"海底漫步者","image_path":"files/book/cover/31299/cover.jpg","customer_url":"wodenvyoushienv"}]

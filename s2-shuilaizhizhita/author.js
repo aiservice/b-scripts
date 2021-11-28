@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"赘婿人柱力","leading_role":"牛笔","image_path_min":"files/book/cover/64065/cover_120.jpg","author_name":"牛笔","image_path":"files/book/cover/64065/cover.jpg","customer_url":"s2-zhuixurenzhuli"}]

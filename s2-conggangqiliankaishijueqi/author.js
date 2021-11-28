@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"士兵突击之我不可能是兵王","leading_role":"一世剑影","image_path_min":"files/book/cover/64035/cover_120.jpg","author_name":"一世剑影","image_path":"files/book/cover/64035/cover.jpg","customer_url":"s2-shibingtujizhiwobukenengshibingwang"}]

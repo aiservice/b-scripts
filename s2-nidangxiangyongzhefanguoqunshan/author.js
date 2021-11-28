@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"余下的，只有噪音","leading_role":"沉默的爱","image_path_min":"files/book/cover/64484/cover_120.jpg","author_name":"沉默的爱","image_path":"files/book/cover/64484/cover.jpg","customer_url":"s2-yuxiadezhiyouzaoyin"}]

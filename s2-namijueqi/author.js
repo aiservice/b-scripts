@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从推进城到多元宇宙","leading_role":"岭南仨人","image_path_min":"files/book/cover/65586/cover_120.jpg","author_name":"岭南仨人","image_path":"files/book/cover/65586/cover.jpg","customer_url":"s2-congtuijinchengdaoduoyuanyuzhou"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"神话三国领主","leading_role":"大汉护卫","image_path_min":"files/book/cover/62843/cover_120.jpg","author_name":"大汉护卫","image_path":"files/book/cover/62843/cover.jpg","customer_url":"s2-shenhuasanguolingzhu"}]

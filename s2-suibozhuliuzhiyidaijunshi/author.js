@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"随波逐流之神龙传奇","leading_role":"随波逐流","image_path_min":"files/book/cover/62625/cover_120.jpg","author_name":"随波逐流","image_path":"files/book/cover/62625/cover.jpg","customer_url":"s2-suibozhuliuzhishenlongchuanqi"}]

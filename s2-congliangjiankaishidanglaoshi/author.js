@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我在民国办书院","leading_role":"老陈家三十一.CS","image_path_min":"files/book/cover/63087/cover_120.jpg","author_name":"老陈家三十一.CS","image_path":"files/book/cover/63087/cover.jpg","customer_url":"s2-wozaiminguobanshuyuan"}]

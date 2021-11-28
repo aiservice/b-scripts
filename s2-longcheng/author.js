@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"师士传说","leading_role":"方想","image_path_min":"files/book/cover/62914/cover_120.jpg","author_name":"方想","image_path":"files/book/cover/62914/cover.jpg","customer_url":"s2-shishichuanshuo"}]

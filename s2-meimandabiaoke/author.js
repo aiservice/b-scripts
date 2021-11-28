@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"美漫剑仙","leading_role":"叶知非","image_path_min":"files/book/cover/63146/cover_120.jpg","author_name":"叶知非","image_path":"files/book/cover/63146/cover.jpg","customer_url":"s2-meimanjianxian"}]

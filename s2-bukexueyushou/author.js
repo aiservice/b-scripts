@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"精灵掌门人","leading_role":"轻泉流响","image_path_min":"files/book/cover/63030/cover_120.jpg","author_name":"轻泉流响","image_path":"files/book/cover/63030/cover.jpg","customer_url":"s2-jinglingzhangmenren"}]

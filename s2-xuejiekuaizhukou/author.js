@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我女友是up主","leading_role":"蜜汁姬","image_path_min":"files/book/cover/63614/cover_120.jpg","author_name":"蜜汁姬","image_path":"files/book/cover/63614/cover.jpg","customer_url":"s2-wonvyoushiupzhu"}]

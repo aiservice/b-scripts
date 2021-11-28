@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"武侠江湖大穿越","leading_role":"挎剑游侠儿","image_path_min":"files/book/cover/63287/cover_120.jpg","author_name":"挎剑游侠儿","image_path":"files/book/cover/63287/cover.jpg","customer_url":"s2-wuxiajianghudachuanyue"}]

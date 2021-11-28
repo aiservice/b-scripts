@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"长安十二时辰","leading_role":"马伯庸","image_path_min":"files/book/cover/48167/cover_120.jpg","author_name":"马伯庸","image_path":"files/book/cover/48167/cover.jpg","customer_url":"changanshiershichen"}]

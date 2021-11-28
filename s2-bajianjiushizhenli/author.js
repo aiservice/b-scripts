@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"煌煌天道无上剑宗","leading_role":"乘风御剑","image_path_min":"files/book/cover/62513/cover_120.jpg","author_name":"乘风御剑","image_path":"files/book/cover/62513/cover.jpg","customer_url":"s2-huanghuangtiandaowushangjianzong"}]

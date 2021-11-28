@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我有一间练功室","leading_role":"大脸晨","image_path_min":"files/book/cover/63564/cover_120.jpg","author_name":"大脸晨","image_path":"files/book/cover/63564/cover.jpg","customer_url":"s2-woyouyijianliangongshi"}]

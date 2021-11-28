@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球旧日","leading_role":"来份松果","image_path_min":"files/book/cover/63554/cover_120.jpg","author_name":"来份松果","image_path":"files/book/cover/63554/cover.jpg","customer_url":"s2-quanqiujiuri"}]

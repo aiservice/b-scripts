@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"最强反套路系统","leading_role":"太上布衣","image_path_min":"files/book/cover/31499/cover_120.jpg","author_name":"太上布衣","image_path":"files/book/cover/31499/cover.jpg","customer_url":"zuiqiangfantaoluxitong"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大秦工程兵","leading_role":"远征士兵","image_path_min":"files/book/cover/63755/cover_120.jpg","author_name":"远征士兵","image_path":"files/book/cover/63755/cover.jpg","customer_url":"s2-daqingongchengbing"}]

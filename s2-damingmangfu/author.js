@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"贞观憨婿","leading_role":"大眼小金鱼","image_path_min":"files/book/cover/62798/cover_120.jpg","author_name":"大眼小金鱼","image_path":"files/book/cover/62798/cover.jpg","customer_url":"s2-zhenguanhanxu"}]

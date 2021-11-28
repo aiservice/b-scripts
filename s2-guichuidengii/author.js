@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"鬼吹灯（盗墓者的经历）","leading_role":"本物天下霸唱","image_path_min":"files/book/cover/62975/cover_120.jpg","author_name":"本物天下霸唱","image_path":"files/book/cover/62975/cover.jpg","customer_url":"s2-guichuidengdaomuzhedejingli"}]

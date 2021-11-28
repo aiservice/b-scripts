@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"无疆","leading_role":"小刀锋利","image_path_min":"files/book/cover/20484/cover_120.jpg","author_name":"小刀锋利","image_path":"files/book/cover/20484/cover.jpg","customer_url":"wujiang"}]

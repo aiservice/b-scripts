@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"特种岁月","leading_role":"严七官","image_path_min":"files/book/cover/62788/cover_120.jpg","author_name":"严七官","image_path":"files/book/cover/62788/cover.jpg","customer_url":"s2-tezhongsuiyue"}]

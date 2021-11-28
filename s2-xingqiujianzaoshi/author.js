@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球降临异界：神级分解师","leading_role":"火洞","image_path_min":"files/book/cover/63170/cover_120.jpg","author_name":"火洞","image_path":"files/book/cover/63170/cover.jpg","customer_url":"s2-quanqiujianglinyijieshenjifenjieshi"}]

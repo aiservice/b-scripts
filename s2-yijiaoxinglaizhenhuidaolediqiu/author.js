@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"山沟皇帝","leading_role":"雨天下雨","image_path_min":"files/book/cover/21650/cover_120.jpg","author_name":"雨天下雨","image_path":"files/book/cover/21650/cover.jpg","customer_url":"shangouhuangdi"}]

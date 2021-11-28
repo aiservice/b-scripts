@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"抗日之敌后争锋","leading_role":"574981","image_path_min":"files/book/cover/63353/cover_120.jpg","author_name":"574981","image_path":"files/book/cover/63353/cover.jpg","customer_url":"s2-kangrizhidihouzhengfeng"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的时空穿梭手机","leading_role":"安阳","image_path_min":"files/book/cover/21546/cover_120.jpg","author_name":"金色茉莉花","image_path":"files/book/cover/21546/cover.jpg","customer_url":"wodeshikongchuansuoshouji"}]

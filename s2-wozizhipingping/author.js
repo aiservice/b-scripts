@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我想先苟几年","leading_role":"下地拔草","image_path_min":"files/book/cover/64306/cover_120.jpg","author_name":"下地拔草","image_path":"files/book/cover/64306/cover.jpg","customer_url":"s2-woxiangxiangoujinian"}]

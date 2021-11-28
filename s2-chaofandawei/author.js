@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"战兵利昂","leading_role":"吃瓜子群众","image_path_min":"files/book/cover/64022/cover_120.jpg","author_name":"吃瓜子群众","image_path":"files/book/cover/64022/cover.jpg","customer_url":"s2-zhanbingliang"}]

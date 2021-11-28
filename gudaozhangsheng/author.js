@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从1983开始","leading_role":"睡觉会变白","image_path_min":"files/book/cover/62031/cover_120.jpg","author_name":"睡觉会变白","image_path":"files/book/cover/62031/cover.jpg","customer_url":"s3-cong1983kaishi"}]

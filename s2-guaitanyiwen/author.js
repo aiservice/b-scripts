@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"青叶事务所","leading_role":"库奇奇","image_path_min":"files/book/cover/62980/cover_120.jpg","author_name":"库奇奇","image_path":"files/book/cover/62980/cover.jpg","customer_url":"s2-qingyeshiwusuo"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"教父的荣耀","leading_role":"猪头七","image_path_min":"files/book/cover/63460/cover_120.jpg","author_name":"猪头七","image_path":"files/book/cover/63460/cover.jpg","customer_url":"s2-jiaofuderongyao"}]

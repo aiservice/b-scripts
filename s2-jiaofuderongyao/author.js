@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的谍战岁月","leading_role":"猪头七","image_path_min":"files/book/cover/62785/cover_120.jpg","author_name":"猪头七","image_path":"files/book/cover/62785/cover.jpg","customer_url":"s2-wodediezhansuiyue"}]

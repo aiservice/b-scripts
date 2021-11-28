@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"重生周卫国从雪豹开始","leading_role":"深思文学","image_path_min":"files/book/cover/64395/cover_120.jpg","author_name":"深思文学","image_path":"files/book/cover/64395/cover.jpg","customer_url":"s2-zhongshengzhouweiguocongxuebaokaishi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大国重工","leading_role":"齐橙","image_path_min":"files/book/cover/63137/cover_120.jpg","author_name":"齐橙","image_path":"files/book/cover/63137/cover.jpg","customer_url":"s2-daguozhonggong"}]

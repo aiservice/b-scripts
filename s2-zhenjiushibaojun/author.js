@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球游戏进化","leading_role":"剑无云","image_path_min":"files/book/cover/62950/cover_120.jpg","author_name":"剑无云","image_path":"files/book/cover/62950/cover.jpg","customer_url":"s2-quanqiuyouxijinhua"}]

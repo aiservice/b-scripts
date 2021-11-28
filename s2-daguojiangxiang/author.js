@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"赵氏虎子","leading_role":"贱宗首席弟子","image_path_min":"files/book/cover/63418/cover_120.jpg","author_name":"贱宗首席弟子","image_path":"files/book/cover/63418/cover.jpg","customer_url":"s2-zhaoshihuzi"}]

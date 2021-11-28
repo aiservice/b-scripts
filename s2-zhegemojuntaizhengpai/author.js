@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从1998开始崛起","leading_role":"燃脂者","image_path_min":"files/book/cover/64768/cover_120.jpg","author_name":"燃脂者","image_path":"files/book/cover/64768/cover.jpg","customer_url":"s2-cong1998kaishijueqi"}]

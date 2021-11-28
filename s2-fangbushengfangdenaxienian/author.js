@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我有一本卖房宝典","leading_role":"狗叔孤寒","image_path_min":"files/book/cover/62716/cover_120.jpg","author_name":"狗叔孤寒","image_path":"files/book/cover/62716/cover.jpg","customer_url":"s2-woyouyibenmaifangbaodian"}]

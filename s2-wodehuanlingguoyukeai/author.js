@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"魔王不必被打倒","leading_role":"如倾如诉","image_path_min":"files/book/cover/63591/cover_120.jpg","author_name":"如倾如诉","image_path":"files/book/cover/63591/cover.jpg","customer_url":"s2-mowangbubibeidadao"}]

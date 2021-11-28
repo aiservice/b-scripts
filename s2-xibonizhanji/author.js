@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"请叫我馆主大人","leading_role":"虚伪王庭","image_path_min":"files/book/cover/63521/cover_120.jpg","author_name":"虚伪王庭","image_path":"files/book/cover/63521/cover.jpg","customer_url":"s2-qingjiaowoguanzhudaren"}]

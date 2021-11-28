@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"希泊尼战纪","leading_role":"虚伪王庭","image_path_min":"files/book/cover/64320/cover_120.jpg","author_name":"虚伪王庭","image_path":"files/book/cover/64320/cover.jpg","customer_url":"s2-xibonizhanji"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诸界第一因","leading_role":"裴屠狗","image_path_min":"files/book/cover/64793/cover_120.jpg","author_name":"裴屠狗","image_path":"files/book/cover/64793/cover.jpg","customer_url":"s2-zhujiediyiyin"}]

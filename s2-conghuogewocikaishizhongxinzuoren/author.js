@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从火影开始做幕后黑手","leading_role":"浓墨浇书","image_path_min":"files/book/cover/63604/cover_120.jpg","author_name":"浓墨浇书","image_path":"files/book/cover/63604/cover.jpg","customer_url":"s2-conghuoyingkaishizuomuhouheishou"}]

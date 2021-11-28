@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球烽火","leading_role":"陈氏刀客","image_path_min":"files/book/cover/62689/cover_120.jpg","author_name":"陈氏刀客","image_path":"files/book/cover/62689/cover.jpg","customer_url":"s2-quanqiufenghuo"}]

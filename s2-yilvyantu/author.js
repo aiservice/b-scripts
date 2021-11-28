@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"白衣为甲","leading_role":"你所谓的歧路","image_path_min":"files/book/cover/64834/cover_120.jpg","author_name":"你所谓的歧路","image_path":"files/book/cover/64834/cover.jpg","customer_url":"s2-baiyiweijia"}]

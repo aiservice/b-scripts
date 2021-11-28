@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诡异医生","leading_role":"醉我十三","image_path_min":"files/book/cover/63826/cover_120.jpg","author_name":"醉我十三","image_path":"files/book/cover/63826/cover.jpg","customer_url":"s2-guiyiyisheng"}]

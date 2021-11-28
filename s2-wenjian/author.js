@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"玩家凶猛","leading_role":"黑灯夏火","image_path_min":"files/book/cover/62910/cover_120.jpg","author_name":"黑灯夏火","image_path":"files/book/cover/62910/cover.jpg","customer_url":"s2-wanjiaxiongmeng"}]

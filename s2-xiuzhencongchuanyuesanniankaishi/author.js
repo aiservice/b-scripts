@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我有一个熟练度面板","leading_role":"行为金融","image_path_min":"files/book/cover/63043/cover_120.jpg","author_name":"行为金融","image_path":"files/book/cover/63043/cover.jpg","customer_url":"s2-woyouyigeshuliandumianban"}]

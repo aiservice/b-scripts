@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"俺寻思这挺科学的","leading_role":"看书伤眼","image_path_min":"files/book/cover/63627/cover_120.jpg","author_name":"看书伤眼","image_path":"files/book/cover/63627/cover.jpg","customer_url":"s2-anxunsizhetingkexuede"}]

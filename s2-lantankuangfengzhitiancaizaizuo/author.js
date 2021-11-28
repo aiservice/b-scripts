@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"篮坛狂锋之上帝之子","leading_role":"正义的豌豆","image_path_min":"files/book/cover/63477/cover_120.jpg","author_name":"正义的豌豆","image_path":"files/book/cover/63477/cover.jpg","customer_url":"s2-lantankuangfengzhishangdizhizi"}]

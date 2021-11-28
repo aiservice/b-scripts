@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从武警新兵开始当教员","leading_role":"丁丁食红豆汤","image_path_min":"files/book/cover/62768/cover_120.jpg","author_name":"丁丁食红豆汤","image_path":"files/book/cover/62768/cover.jpg","customer_url":"s2-congwujingxinbingkaishidangjiaoyuan"}]

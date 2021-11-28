@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"最强魔锋","leading_role":"红魔传奇","image_path_min":"files/book/cover/65087/cover_120.jpg","author_name":"红魔传奇","image_path":"files/book/cover/65087/cover.jpg","customer_url":"s2-zuiqiangmofeng"}]

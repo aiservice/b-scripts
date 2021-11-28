@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我从凡间来","leading_role":"想见江南","image_path_min":"files/book/cover/21543/cover_120.jpg","author_name":"想见江南","image_path":"files/book/cover/21543/cover.jpg","customer_url":"wocongfanjianlai"}]
