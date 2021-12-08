@@ -1,1 +1,1 @@
-var authorList=[]
+var authorList=[{"book_name":"从霍格沃茨开始重新做人","leading_role":"浓墨浇书","author_name":"浓墨浇书","image_path":"files/book/cover/65604/cover.jpg","customer_url":"s2-conghuogewocikaishizhongxinzuoren"}]
