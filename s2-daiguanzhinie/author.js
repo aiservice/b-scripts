@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"邪神竟是我自己？","leading_role":"旧日人偶","author_name":"旧日人偶","image_path":"files/book/cover/65447/cover.jpg","customer_url":"s2-xieshenjingshiwoziji"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"宋成祖","leading_role":"青史尽成灰","author_name":"青史尽成灰","image_path":"files/book/cover/63400/cover.jpg","customer_url":"s2-songchengzu"}]
