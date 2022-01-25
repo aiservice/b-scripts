@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"古神的诡异游戏","leading_role":"宝月流光","author_name":"宝月流光","image_path":"files/book/cover/63426/cover.jpg","customer_url":"s2-gushendeguiyiyouxi"}]

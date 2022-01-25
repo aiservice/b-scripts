@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的重返人生","leading_role":"偷名","author_name":"偷名","image_path":"files/book/cover/63317/cover.jpg","customer_url":"s2-wodezhongfanrensheng"},{"book_name":"我的回塑人生","leading_role":"偷名","author_name":"偷名","image_path":"files/book/cover/64303/cover.jpg","customer_url":"s2-wodehuisurensheng"}]

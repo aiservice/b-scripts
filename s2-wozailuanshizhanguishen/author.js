@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"直播之狩猎荒野","leading_role":"土土士","author_name":"土土士","image_path":"files/book/cover/63669/cover.jpg","customer_url":"s2-zhibozhishouliehuangye"}]

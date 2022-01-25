@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"中心主任","leading_role":"衣山尽","author_name":"衣山尽","image_path":"files/book/cover/64611/cover.jpg","customer_url":"s2-zhongxinzhuren"}]

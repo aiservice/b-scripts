@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"什么叫游走型中单啊","leading_role":"这很科学啊","author_name":"这很科学啊","image_path":"files/book/cover/62838/cover.jpg","customer_url":"s2-shenmejiaoyouzouxingzhongdana"}]

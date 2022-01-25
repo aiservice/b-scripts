@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我快亏成麻瓜了","leading_role":"江公子阿宝","author_name":"江公子阿宝","image_path":"files/book/cover/62864/cover.jpg","customer_url":"s2-wokuaikuichengmaguale"}]

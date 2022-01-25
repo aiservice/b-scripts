@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"曲朗探案","leading_role":"风过无墨","author_name":"风过无墨","image_path":"files/book/cover/62961/cover.jpg","customer_url":"s2-qulangtanan"}]

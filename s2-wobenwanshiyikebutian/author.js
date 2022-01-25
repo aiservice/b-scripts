@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"万天之劫","leading_role":"枫海明","author_name":"枫海明","image_path":"files/book/cover/64250/cover.jpg","customer_url":"s2-wantianzhijie"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"横推诸天从女装大佬开始","leading_role":"宋戈壁","author_name":"宋戈壁","image_path":"files/book/cover/65141/cover.jpg","customer_url":"s2-hengtuizhutiancongnvzhuangdalaokaishi"}]

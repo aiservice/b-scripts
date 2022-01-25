@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"毒舌教练","leading_role":"山荆子","author_name":"山荆子","image_path":"files/book/cover/63488/cover.jpg","customer_url":"s2-dushejiaolian"}]

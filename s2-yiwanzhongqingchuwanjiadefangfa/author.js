@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"万界圆梦师","leading_role":"棉衣卫","author_name":"棉衣卫","image_path":"files/book/cover/63507/cover.jpg","customer_url":"s2-wanjieyuanmengshi"}]
