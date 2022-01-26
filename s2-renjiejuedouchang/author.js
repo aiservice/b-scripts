@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"火影之活久见","leading_role":"李四羊","image_path_min":"files/book/cover/27217/cover_120.jpg","author_name":"李四羊","image_path":"files/book/cover/27217/cover.jpg","customer_url":"huoyingzhihuojiujian"}]

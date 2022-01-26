@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我被恶灵附身了","leading_role":"文若不成","image_path_min":"files/book/cover/62977/cover_120.jpg","author_name":"文若不成","image_path":"files/book/cover/62977/cover.jpg","customer_url":"s2-wobeielingfushenle"}]

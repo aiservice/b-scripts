@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"老兵新警","leading_role":"卓牧闲","image_path_min":"files/book/cover/63328/cover_120.jpg","author_name":"卓牧闲","image_path":"files/book/cover/63328/cover.jpg","customer_url":"s2-laobingxinjing"}]

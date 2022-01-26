@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我真的只想躺赢啊","leading_role":"里斯本夜车","image_path_min":"files/book/cover/63481/cover_120.jpg","author_name":"里斯本夜车","image_path":"files/book/cover/63481/cover.jpg","customer_url":"s2-wozhendezhixiangtangyinga"}]

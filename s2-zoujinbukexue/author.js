@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"异世界征服手册","leading_role":"新手钓鱼人","author_name":"新手钓鱼人","image_path":"files/book/cover/63084/cover.jpg","customer_url":"s2-yishijiezhengfushouce"}]
