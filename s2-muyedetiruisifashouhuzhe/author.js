@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"海贼之圣光剑豪","leading_role":"子曰囧","image_path_min":"files/book/cover/63607/cover_120.jpg","author_name":"子曰囧","image_path":"files/book/cover/63607/cover.jpg","customer_url":"s2-haizeizhishengguangjianhao"}]

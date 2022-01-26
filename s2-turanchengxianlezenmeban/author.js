@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我弟子明明超强却以德服人","leading_role":"欢颜笑语","image_path_min":"files/book/cover/64281/cover_120.jpg","author_name":"欢颜笑语","image_path":"files/book/cover/64281/cover.jpg","customer_url":"s2-wodizimingmingchaoqiangqueyidefuren"}]

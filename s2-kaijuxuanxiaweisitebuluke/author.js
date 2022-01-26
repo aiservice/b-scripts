@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"摊牌了我才是篮球之神","leading_role":"粉蒸肉好好吃","image_path_min":"files/book/cover/63677/cover_120.jpg","author_name":"粉蒸肉好好吃","image_path":"files/book/cover/63677/cover.jpg","customer_url":"s2-tanpailewocaishilanqiuzhishen"}]

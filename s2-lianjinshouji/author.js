@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"画妖师","leading_role":"小鸽哥","image_path_min":"files/book/cover/63257/cover_120.jpg","author_name":"小鸽哥","image_path":"files/book/cover/63257/cover.jpg","customer_url":"s2-huayaoshi"}]

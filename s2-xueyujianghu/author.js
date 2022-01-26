@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"魔域九重天","leading_role":"天雨寒","image_path_min":"files/book/cover/63261/cover_120.jpg","author_name":"天雨寒","image_path":"files/book/cover/63261/cover.jpg","customer_url":"s2-moyujiuzhongtian"}]

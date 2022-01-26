@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"你当像勇者翻过群山","leading_role":"沉默的爱","image_path_min":"files/book/cover/62878/cover_120.jpg","author_name":"沉默的爱","image_path":"files/book/cover/62878/cover.jpg","customer_url":"s2-nidangxiangyongzhefanguoqunshan"}]

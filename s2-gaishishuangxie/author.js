@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"纣临","leading_role":"三天两觉","image_path_min":"files/book/cover/29021/cover_120.jpg","author_name":"三天两觉","image_path":"files/book/cover/29021/cover.jpg","customer_url":"zhoulin"}]

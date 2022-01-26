@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我不想当老大","leading_role":"超级麦克风","image_path_min":"files/book/cover/62885/cover_120.jpg","author_name":"超级麦克风","image_path":"files/book/cover/62885/cover.jpg","customer_url":"s2-wobuxiangdanglaoda"}]

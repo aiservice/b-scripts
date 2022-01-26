@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"打铁的神正是在下","leading_role":"紫锋01","image_path_min":"files/book/cover/63482/cover_120.jpg","author_name":"紫锋01","image_path":"files/book/cover/63482/cover.jpg","customer_url":"s2-datiedeshenzhengshizaixia"}]

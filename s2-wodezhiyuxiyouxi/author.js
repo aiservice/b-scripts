@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我有一座冒险屋","leading_role":"陈歌","image_path_min":"files/book/cover/41119/cover_120.jpg","author_name":"我会修空调","image_path":"files/book/cover/41119/cover.jpg","customer_url":"woyouyizuomaoxianwu"}]

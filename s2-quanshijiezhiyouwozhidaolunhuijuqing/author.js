@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"位面电梯","leading_role":"千翠百恋","author_name":"千翠百恋","image_path":"files/book/cover/21517/cover.jpg","customer_url":"weimiandianti"}]
