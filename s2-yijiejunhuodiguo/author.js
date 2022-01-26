@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我的帝国","leading_role":"龙灵骑士","image_path_min":"files/book/cover/63341/cover_120.jpg","author_name":"龙灵骑士","image_path":"files/book/cover/63341/cover.jpg","customer_url":"s2-wodediguo"}]

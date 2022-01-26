@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"传奇机长","leading_role":"梅子徐","image_path_min":"files/book/cover/62735/cover_120.jpg","author_name":"梅子徐","image_path":"files/book/cover/62735/cover.jpg","customer_url":"s2-chuanqijichang"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"南明第一狠人","leading_role":"一袖乾坤","author_name":"一袖乾坤","image_path":"files/book/cover/64769/cover.jpg","customer_url":"s2-nanmingdiyihenren"}]

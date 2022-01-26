@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"刺客之王","leading_role":"踏雪真人","author_name":"踏雪真人","image_path":"files/book/cover/63167/cover.jpg","customer_url":"s2-cikezhiwang"}]

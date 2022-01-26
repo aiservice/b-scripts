@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从钢七连开始崛起","leading_role":"一世剑影","image_path_min":"files/book/cover/64862/cover_120.jpg","author_name":"一世剑影","image_path":"files/book/cover/64862/cover.jpg","customer_url":"s2-conggangqiliankaishijueqi"}]

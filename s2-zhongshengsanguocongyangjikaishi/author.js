@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"超级家主系统","leading_role":"血月青山","author_name":"血月青山","image_path":"files/book/cover/64332/cover.jpg","customer_url":"s2-chaojijiazhuxitong"}]

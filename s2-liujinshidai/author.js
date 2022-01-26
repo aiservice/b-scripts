@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"这个神医有点苟","leading_role":"坤华","image_path_min":"files/book/cover/62816/cover_120.jpg","author_name":"坤华","image_path":"files/book/cover/62816/cover.jpg","customer_url":"s2-zhegeshenyiyoudiangou"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"最强降维打击","leading_role":"明镜不止水","author_name":"明镜不止水","image_path":"files/book/cover/64161/cover.jpg","customer_url":"s2-zuiqiangjiangweidaji"}]
