@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"影视从海豹突击队开始","leading_role":"小兵哥","image_path_min":"files/book/cover/65120/cover_120.jpg","author_name":"小兵哥","image_path":"files/book/cover/65120/cover.jpg","customer_url":"s2-yingshiconghaibaotujiduikaishi"}]

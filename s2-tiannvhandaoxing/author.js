@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从穿越冥帝朱友珪开始","leading_role":"一束水仙花","author_name":"一束水仙花","image_path":"files/book/cover/64524/cover.jpg","customer_url":"s2-congchuanyuemingdizhuyouguikaishi"}]
