@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"最强特种兵之战狼","leading_role":"痴冬书亦","image_path_min":"files/book/cover/42835/cover_120.jpg","author_name":"痴冬书亦","image_path":"files/book/cover/42835/cover.jpg","customer_url":"zuiqiangtezhongbingzhizhanlang"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"异界军火帝国","leading_role":"龙灵骑士","image_path_min":"files/book/cover/65571/cover_120.jpg","author_name":"龙灵骑士","image_path":"files/book/cover/65571/cover.jpg","customer_url":"s2-yijiejunhuodiguo"}]

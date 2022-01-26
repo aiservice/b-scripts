@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从我的团长开始抗日","leading_role":"小兵哥","image_path_min":"files/book/cover/63345/cover_120.jpg","author_name":"小兵哥","image_path":"files/book/cover/63345/cover.jpg","customer_url":"s2-congwodetuanchangkaishikangri"}]

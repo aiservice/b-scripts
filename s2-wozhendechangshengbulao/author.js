@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我妈带我去修仙","leading_role":"初恋璀璨如夏花","image_path_min":"files/book/cover/63609/cover_120.jpg","author_name":"初恋璀璨如夏花","image_path":"files/book/cover/63609/cover.jpg","customer_url":"s2-womadaiwoquxiuxian"}]

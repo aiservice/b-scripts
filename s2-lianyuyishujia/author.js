@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"诸界末日在线","leading_role":"烟火成城","image_path_min":"files/book/cover/28191/cover_120.jpg","author_name":"烟火成城","image_path":"files/book/cover/28191/cover.jpg","customer_url":"zhujiemorizaixian"}]
