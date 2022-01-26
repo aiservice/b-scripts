@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我真是红魔救世主","leading_role":"红魔传奇","image_path_min":"files/book/cover/63480/cover_120.jpg","author_name":"红魔传奇","image_path":"files/book/cover/63480/cover.jpg","customer_url":"s2-wozhenshihongmojiushizhu"}]

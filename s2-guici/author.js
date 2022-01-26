@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"弹痕","leading_role":"纷舞妖姬","image_path_min":"files/book/cover/62776/cover_120.jpg","author_name":"纷舞妖姬","image_path":"files/book/cover/62776/cover.jpg","customer_url":"s2-danhen"}]

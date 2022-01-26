@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"环球挖土党","leading_role":"痞徒","image_path_min":"files/book/cover/63312/cover_120.jpg","author_name":"痞徒","image_path":"files/book/cover/63312/cover.jpg","customer_url":"s2-huanqiuwatudang"}]

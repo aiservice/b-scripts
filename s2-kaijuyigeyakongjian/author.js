@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"全球迈入神话时代","leading_role":"最终永恒","author_name":"最终永恒","image_path":"files/book/cover/63505/cover.jpg","customer_url":"s2-quanqiumairushenhuashidai"},{"book_name":"养了一屋执念","leading_role":"最终永恒","author_name":"最终永恒","image_path":"files/book/cover/65587/cover.jpg","customer_url":"s2-yangleyiwuzhinian"}]

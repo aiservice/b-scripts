@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"熟睡之后","leading_role":"吾即正道","image_path_min":"files/book/cover/63552/cover_120.jpg","author_name":"吾即正道","image_path":"files/book/cover/63552/cover.jpg","customer_url":"s2-shushuizhihou"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大国战隼","leading_role":"步枪","image_path_min":"files/book/cover/62733/cover_120.jpg","author_name":"步枪","image_path":"files/book/cover/62733/cover.jpg","customer_url":"s2-daguozhansun"}]

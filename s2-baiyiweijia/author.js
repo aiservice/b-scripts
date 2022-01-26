@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"医旅研途","leading_role":"你所谓的歧路","image_path_min":"files/book/cover/62701/cover_120.jpg","author_name":"你所谓的歧路","image_path":"files/book/cover/62701/cover.jpg","customer_url":"s2-yilvyantu"}]

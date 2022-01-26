@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"槐花胡同","leading_role":"别名少","image_path_min":"files/book/cover/64615/cover_120.jpg","author_name":"别名少","image_path":"files/book/cover/64615/cover.jpg","customer_url":"s2-huaihuahutong"}]

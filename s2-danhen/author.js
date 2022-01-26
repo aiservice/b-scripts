@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"诡刺","leading_role":"纷舞妖姬","image_path_min":"files/book/cover/62764/cover_120.jpg","author_name":"纷舞妖姬","image_path":"files/book/cover/62764/cover.jpg","customer_url":"s2-guici"}]
