@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"朕就是暴君","leading_role":"剑无云","image_path_min":"files/book/cover/65118/cover_120.jpg","author_name":"剑无云","image_path":"files/book/cover/65118/cover.jpg","customer_url":"s2-zhenjiushibaojun"}]

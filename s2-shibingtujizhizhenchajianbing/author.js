@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从士兵突击开始的佛系尖兵","leading_role":"水水的平安","image_path_min":"files/book/cover/64490/cover_120.jpg","author_name":"水水的平安","image_path":"files/book/cover/64490/cover.jpg","customer_url":"s2-congshibingtujikaishidefoxijianbing"}]

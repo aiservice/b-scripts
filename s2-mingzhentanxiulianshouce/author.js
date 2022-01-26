@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"小丑游戏","leading_role":"肥瓜","image_path_min":"files/book/cover/28925/cover_120.jpg","author_name":"肥瓜","image_path":"files/book/cover/28925/cover.jpg","customer_url":"xiaochouyouxi"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"重燃","leading_role":"奥尔良烤鲟鱼堡","image_path_min":"files/book/cover/27287/cover_120.jpg","author_name":"奥尔良烤鲟鱼堡","image_path":"files/book/cover/27287/cover.jpg","customer_url":"zhongran"}]

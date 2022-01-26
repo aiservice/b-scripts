@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"发现我的尸体","leading_role":"薄情书生","image_path_min":"files/book/cover/65627/cover_120.jpg","author_name":"薄情书生","image_path":"files/book/cover/65627/cover.jpg","customer_url":"s2-faxianwodeshiti"}]
