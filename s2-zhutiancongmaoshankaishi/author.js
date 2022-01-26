@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"开局：一个民国位面","leading_role":"龙升云霄","image_path_min":"files/book/cover/64952/cover_120.jpg","author_name":"龙升云霄","image_path":"files/book/cover/64952/cover.jpg","customer_url":"s2-kaijuyigeminguoweimian"}]

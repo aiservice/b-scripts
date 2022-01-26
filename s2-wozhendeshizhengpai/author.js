@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"人族镇守使","leading_role":"白驹易逝","image_path_min":"files/book/cover/63168/cover_120.jpg","author_name":"白驹易逝","image_path":"files/book/cover/63168/cover.jpg","customer_url":"s2-renzuzhenshoushi"}]

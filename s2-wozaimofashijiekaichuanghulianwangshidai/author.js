@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"人在神国，刚成人间收容物","leading_role":"白天太白","image_path_min":"files/book/cover/64371/cover_120.jpg","author_name":"白天太白","image_path":"files/book/cover/64371/cover.jpg","customer_url":"s2-renzaishenguogangchengrenjianshourongwu"}]

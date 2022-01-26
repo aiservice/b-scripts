@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"御兽：我连神魔都能培育！","leading_role":"海无颜","image_path_min":"files/book/cover/65217/cover_120.jpg","author_name":"海无颜","image_path":"files/book/cover/65217/cover.jpg","customer_url":"s2-yushouwolianshenmodounengpeiyu"}]

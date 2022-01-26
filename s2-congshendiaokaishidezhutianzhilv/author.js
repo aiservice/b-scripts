@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从华山开始的武侠之旅","leading_role":"八月南苏","image_path_min":"files/book/cover/63262/cover_120.jpg","author_name":"八月南苏","image_path":"files/book/cover/63262/cover.jpg","customer_url":"s2-conghuashankaishidewuxiazhilv"}]

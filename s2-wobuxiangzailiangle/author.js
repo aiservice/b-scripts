@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"高手寂寞","leading_role":"兰帝魅晨","image_path_min":"files/book/cover/62842/cover_120.jpg","author_name":"兰帝魅晨","image_path":"files/book/cover/62842/cover.jpg","customer_url":"s2-gaoshoujimo"}]

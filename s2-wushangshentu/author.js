@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我是禁忌生命","leading_role":"男人不潇洒","image_path_min":"files/book/cover/64327/cover_120.jpg","author_name":"男人不潇洒","image_path":"files/book/cover/64327/cover.jpg","customer_url":"s2-woshijinjishengming"}]

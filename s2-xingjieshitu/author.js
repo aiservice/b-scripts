@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"超神机械师","leading_role":"韩萧","image_path_min":"files/book/cover/22260/cover_120.jpg","author_name":"齐佩甲","image_path":"files/book/cover/22260/cover.jpg","customer_url":"chaoshenjixieshi"}]
