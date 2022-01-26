@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"联盟之魔王系统","leading_role":"陈牧","image_path_min":"files/book/cover/29843/cover_120.jpg","author_name":"神秘的大西瓜","image_path":"files/book/cover/29843/cover.jpg","customer_url":"lianmengzhimowangxitong"}]

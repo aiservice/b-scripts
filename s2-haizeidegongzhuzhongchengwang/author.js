@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"漫威的公主终成王","leading_role":"想静静的顿河","image_path_min":"files/book/cover/63622/cover_120.jpg","author_name":"想静静的顿河","image_path":"files/book/cover/63622/cover.jpg","customer_url":"s2-manweidegongzhuzhongchengwang"}]

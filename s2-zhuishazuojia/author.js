@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我用木雕记录异常","leading_role":"夜行狗","image_path_min":"files/book/cover/62972/cover_120.jpg","author_name":"夜行狗","image_path":"files/book/cover/62972/cover.jpg","customer_url":"s2-woyongmudiaojiluyichang"}]

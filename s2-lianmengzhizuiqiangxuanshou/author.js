@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"幕后真大佬","leading_role":"一片苏叶","image_path_min":"files/book/cover/64491/cover_120.jpg","author_name":"一片苏叶","image_path":"files/book/cover/64491/cover.jpg","customer_url":"s2-muhouzhendalao"}]

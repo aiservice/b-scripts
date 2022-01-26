@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"至尊剑皇","leading_role":"半步沧桑","image_path_min":"files/book/cover/33810/cover_120.jpg","author_name":"半步沧桑","image_path":"files/book/cover/33810/cover.jpg","customer_url":"zhizunjianhuang"}]
