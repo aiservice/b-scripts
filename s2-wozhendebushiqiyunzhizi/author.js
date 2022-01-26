@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"仙帝的自我修养","leading_role":"云中殿","image_path_min":"files/book/cover/63124/cover_120.jpg","author_name":"云中殿","image_path":"files/book/cover/63124/cover.jpg","customer_url":"s2-xiandideziwoxiuyang"}]

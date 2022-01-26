@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我资质平平","leading_role":"下地拔草","image_path_min":"files/book/cover/63270/cover_120.jpg","author_name":"下地拔草","image_path":"files/book/cover/63270/cover.jpg","customer_url":"s2-wozizhipingping"}]

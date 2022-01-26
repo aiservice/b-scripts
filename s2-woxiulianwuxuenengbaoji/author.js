@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"被揍就能变强","leading_role":"新丰","image_path_min":"files/book/cover/65363/cover_120.jpg","author_name":"新丰","image_path":"files/book/cover/65363/cover.jpg","customer_url":"s2-beizoujiunengbianqiang"}]

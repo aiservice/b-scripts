@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"拔剑就是真理","leading_role":"乘风御剑","image_path_min":"files/book/cover/65059/cover_120.jpg","author_name":"乘风御剑","image_path":"files/book/cover/65059/cover.jpg","customer_url":"s2-bajianjiushizhenli"}]

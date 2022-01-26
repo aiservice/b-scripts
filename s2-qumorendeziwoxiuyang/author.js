@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我家老板非人哉","leading_role":"拥有福气","image_path_min":"files/book/cover/64220/cover_120.jpg","author_name":"拥有福气","image_path":"files/book/cover/64220/cover.jpg","customer_url":"s2-wojialaobanfeirenzai"}]

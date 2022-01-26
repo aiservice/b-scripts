@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"燃钢之魂","leading_role":"阴天神隐","image_path_min":"files/book/cover/22341/cover_120.jpg","author_name":"阴天神隐","image_path":"files/book/cover/22341/cover.jpg","customer_url":"rangangzhihun"}]

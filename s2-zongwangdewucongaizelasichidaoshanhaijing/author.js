@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"都市的变形德鲁伊","leading_role":"易伤秋者","image_path_min":"files/book/cover/63438/cover_120.jpg","author_name":"易伤秋者","image_path":"files/book/cover/63438/cover.jpg","customer_url":"s2-dushidebianxingdeluyi"}]
