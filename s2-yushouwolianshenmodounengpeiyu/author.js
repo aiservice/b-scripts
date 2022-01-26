@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"恶魔之王：开局系统被诅咒","leading_role":"海无颜","image_path_min":"files/book/cover/65218/cover_120.jpg","author_name":"海无颜","image_path":"files/book/cover/65218/cover.jpg","customer_url":"s2-emozhiwangkaijuxitongbeizuzhou"}]

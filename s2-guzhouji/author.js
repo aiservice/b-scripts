@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"替天行盗","leading_role":"石章鱼","image_path_min":"files/book/cover/63419/cover_120.jpg","author_name":"石章鱼","image_path":"files/book/cover/63419/cover.jpg","customer_url":"s2-titianxingdao"}]

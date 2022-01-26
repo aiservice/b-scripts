@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大隋国师","leading_role":"一语破春风","image_path_min":"files/book/cover/62653/cover_120.jpg","author_name":"一语破春风","image_path":"files/book/cover/62653/cover.jpg","customer_url":"s2-dasuiguoshi"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"打篮球太厉害了怎么办","leading_role":"超级麦克风","image_path_min":"files/book/cover/62907/cover_120.jpg","author_name":"超级麦克风","image_path":"files/book/cover/62907/cover.jpg","customer_url":"s2-dalanqiutailihailezenmeban"}]

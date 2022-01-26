@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"加一个，我不太会打","leading_role":"葛洛夫街兄弟","image_path_min":"files/book/cover/64488/cover_120.jpg","author_name":"葛洛夫街兄弟","image_path":"files/book/cover/64488/cover.jpg","customer_url":"s2-jiayigewobutaihuida"}]

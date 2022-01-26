@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"营川1934","leading_role":"羿落九日","image_path_min":"files/book/cover/62792/cover_120.jpg","author_name":"羿落九日","image_path":"files/book/cover/62792/cover.jpg","customer_url":"s2-yingchuan1934"}]
