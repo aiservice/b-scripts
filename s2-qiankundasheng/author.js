@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从道果开始","leading_role":"妖僧花无缺","image_path_min":"files/book/cover/63441/cover_120.jpg","author_name":"妖僧花无缺","image_path":"files/book/cover/63441/cover.jpg","customer_url":"s2-congdaoguokaishi"}]

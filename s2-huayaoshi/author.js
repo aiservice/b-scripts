@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"炼金手记","leading_role":"小鸽哥","image_path_min":"files/book/cover/63822/cover_120.jpg","author_name":"小鸽哥","image_path":"files/book/cover/63822/cover.jpg","customer_url":"s2-lianjinshouji"}]

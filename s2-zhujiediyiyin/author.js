@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大道纪","leading_role":"裴屠狗","image_path_min":"files/book/cover/63520/cover_120.jpg","author_name":"裴屠狗","image_path":"files/book/cover/63520/cover.jpg","customer_url":"s2-dadaoji"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"寒门枭士","leading_role":"高月","image_path_min":"files/book/cover/21768/cover_120.jpg","author_name":"高月","image_path":"files/book/cover/21768/cover.jpg","customer_url":"hanmenxiaoshi"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"休闲玩家能有什么坏心眼","leading_role":"果味喵","image_path_min":"files/book/cover/62839/cover_120.jpg","author_name":"果味喵","image_path":"files/book/cover/62839/cover.jpg","customer_url":"s2-xiuxianwanjianengyoushenmehuaixinyan"}]
