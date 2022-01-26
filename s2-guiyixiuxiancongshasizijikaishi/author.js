@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"全球异变：从迷宫开始求生","leading_role":"爱丽丝的梦醒","author_name":"爱丽丝的梦醒","image_path":"files/book/cover/63005/cover.jpg","customer_url":"s2-quanqiuyibiancongmigongkaishiqiusheng"}]
