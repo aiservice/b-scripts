@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大魏春","leading_role":"眀志","image_path_min":"files/book/cover/63340/cover_120.jpg","author_name":"眀志","image_path":"files/book/cover/63340/cover.jpg","customer_url":"s2-daweichun"}]

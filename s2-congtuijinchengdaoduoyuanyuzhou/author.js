@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"纳米崛起","leading_role":"岭南仨人","image_path_min":"files/book/cover/63504/cover_120.jpg","author_name":"岭南仨人","image_path":"files/book/cover/63504/cover.jpg","customer_url":"s2-namijueqi"}]

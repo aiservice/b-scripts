@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"救命呀，我被困在火星啦","leading_role":"宝巨要崛起","image_path_min":"files/book/cover/65005/cover_120.jpg","author_name":"宝巨要崛起","image_path":"files/book/cover/65005/cover.jpg","customer_url":"s2-jiumingyawobeikunzaihuoxingla"}]

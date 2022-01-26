@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从津门开始","leading_role":"咬一口山风","image_path_min":"files/book/cover/63120/cover_120.jpg","author_name":"咬一口山风","image_path":"files/book/cover/63120/cover.jpg","customer_url":"s2-congjinmenkaishi"}]

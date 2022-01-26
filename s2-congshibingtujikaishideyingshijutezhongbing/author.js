@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我是影视剧中最凶的教官","leading_role":"龙战将","image_path_min":"files/book/cover/62757/cover_120.jpg","author_name":"龙战将","image_path":"files/book/cover/62757/cover.jpg","customer_url":"s2-woshiyingshijuzhongzuixiongdejiaoguan"}]

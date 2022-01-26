@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"未来天王","leading_role":"陈词懒调","image_path_min":"files/book/cover/22660/cover_120.jpg","author_name":"陈词懒调","image_path":"files/book/cover/22660/cover.jpg","customer_url":"weilaitianwang"}]

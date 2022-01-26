@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"万界武侠扮演者","leading_role":"温茶米酒","image_path_min":"files/book/cover/62639/cover_120.jpg","author_name":"温茶米酒","image_path":"files/book/cover/62639/cover.jpg","customer_url":"s2-wanjiewuxiabanyanzhe"}]

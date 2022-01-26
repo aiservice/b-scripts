@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"人魔之路","leading_role":"莫麻公子","author_name":"莫麻公子","image_path":"files/book/cover/63717/cover.jpg","customer_url":"s2-renmozhilu"}]

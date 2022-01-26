@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"人在海军颜值拉满","leading_role":"洛城太守","image_path_min":"files/book/cover/64230/cover_120.jpg","author_name":"洛城太守","image_path":"files/book/cover/64230/cover.jpg","customer_url":"s2-renzaihaijunyanzhilaman"}]
