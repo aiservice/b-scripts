@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我真的不是气运之子","leading_role":"云中殿","image_path_min":"files/book/cover/63020/cover_120.jpg","author_name":"云中殿","image_path":"files/book/cover/63020/cover.jpg","customer_url":"s2-wozhendebushiqiyunzhizi"}]

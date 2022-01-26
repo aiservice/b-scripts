@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"柯学捡尸人","leading_role":"仙舟","image_path_min":"files/book/cover/63593/cover_120.jpg","author_name":"仙舟","image_path":"files/book/cover/63593/cover.jpg","customer_url":"s2-kexuejianshiren"}]

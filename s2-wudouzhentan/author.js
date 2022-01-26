@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"赏金猎手","leading_role":"虾写","image_path_min":"files/book/cover/63322/cover_120.jpg","author_name":"虾写","image_path":"files/book/cover/63322/cover.jpg","customer_url":"s2-shangjinlieshou"}]

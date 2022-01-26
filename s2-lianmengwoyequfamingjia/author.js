@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"LOL：装备只出技能急速","leading_role":"可爱的帅帅","image_path_min":"files/book/cover/63781/cover_120.jpg","author_name":"可爱的帅帅","image_path":"files/book/cover/63781/cover.jpg","customer_url":"s2-lolzhuangbeizhichujinengjisu"}]

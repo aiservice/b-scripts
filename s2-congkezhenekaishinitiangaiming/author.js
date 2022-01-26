@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"名侦探柯镇恶","leading_role":"熊猫庞大","image_path_min":"files/book/cover/63260/cover_120.jpg","author_name":"熊猫庞大","image_path":"files/book/cover/63260/cover.jpg","customer_url":"s2-mingzhentankezhene"}]

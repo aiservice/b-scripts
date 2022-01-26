@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"长夜国","leading_role":"武猎","image_path_min":"files/book/cover/64170/cover_120.jpg","author_name":"武猎","image_path":"files/book/cover/64170/cover.jpg","customer_url":"s2-changyeguo"}]

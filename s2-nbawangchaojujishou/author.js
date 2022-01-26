@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"NBA绝对防洪坝","leading_role":"东王一","image_path_min":"files/book/cover/63461/cover_120.jpg","author_name":"东王一","image_path":"files/book/cover/63461/cover.jpg","customer_url":"s2-nbajueduifanghongba"}]

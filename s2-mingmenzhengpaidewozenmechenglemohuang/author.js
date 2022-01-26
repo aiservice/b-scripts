@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"签到千年的我只想逍遥人间","leading_role":"剪水II","image_path_min":"files/book/cover/63041/cover_120.jpg","author_name":"剪水II","image_path":"files/book/cover/63041/cover.jpg","customer_url":"s2-qiandaoqianniandewozhixiangxiaoyaorenjian"}]
