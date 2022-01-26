@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"房不胜防的那些年","leading_role":"狗叔孤寒","image_path_min":"files/book/cover/62737/cover_120.jpg","author_name":"狗叔孤寒","image_path":"files/book/cover/62737/cover.jpg","customer_url":"s2-fangbushengfangdenaxienian"}]
