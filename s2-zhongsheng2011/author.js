@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"重回二零零五","leading_role":"独钓长江雪","image_path_min":"files/book/cover/63852/cover_120.jpg","author_name":"独钓长江雪","image_path":"files/book/cover/63852/cover.jpg","customer_url":"s2-zhonghuierlinglingwu"}]
