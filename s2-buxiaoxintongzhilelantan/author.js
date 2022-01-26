@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我在NBA当大佬","leading_role":"我是菜园子","image_path_min":"files/book/cover/63495/cover_120.jpg","author_name":"我是菜园子","image_path":"files/book/cover/63495/cover.jpg","customer_url":"s2-wozainbadangdalao"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"霹雳之道佛双流","leading_role":"明耀乾坤","image_path_min":"files/book/cover/63132/cover_120.jpg","author_name":"明耀乾坤","image_path":"files/book/cover/63132/cover.jpg","customer_url":"s2-pilizhidaofoshuangliu"}]

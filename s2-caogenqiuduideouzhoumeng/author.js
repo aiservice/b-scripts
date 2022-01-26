@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我是梅西，我重生了！","leading_role":"那不是玩笑","image_path_min":"files/book/cover/62898/cover_120.jpg","author_name":"那不是玩笑","image_path":"files/book/cover/62898/cover.jpg","customer_url":"s2-woshimeixiwozhongshengle"}]

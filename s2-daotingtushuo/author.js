@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"安驰天下","leading_role":"萧岗","image_path_min":"files/book/cover/62743/cover_120.jpg","author_name":"萧岗","image_path":"files/book/cover/62743/cover.jpg","customer_url":"s2-anchitianxia"}]

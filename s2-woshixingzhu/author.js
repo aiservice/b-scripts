@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"都市超级医圣","leading_role":"断桥残雪","image_path_min":"files/book/cover/21101/cover_120.jpg","author_name":"断桥残雪","image_path":"files/book/cover/21101/cover.jpg","customer_url":"doushichaojiyisheng"}]
