@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"全球职业时代","leading_role":"小白白的","author_name":"小白白的","image_path":"files/book/cover/64039/cover.jpg","customer_url":"s2-quanqiuzhiyeshidai"}]

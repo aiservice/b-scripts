@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"逍遥小书生","leading_role":"荣小荣","image_path_min":"files/book/cover/21853/cover_120.jpg","author_name":"荣小荣","image_path":"files/book/cover/21853/cover.jpg","customer_url":"xiaoyaoxiaoshusheng"}]

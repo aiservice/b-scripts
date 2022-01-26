@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"体坛之重开的苏神","leading_role":"紫锋01","image_path_min":"files/book/cover/65085/cover_120.jpg","author_name":"紫锋01","image_path":"files/book/cover/65085/cover.jpg","customer_url":"s2-titanzhizhongkaidesushen"}]

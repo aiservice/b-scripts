@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"幻想世界大穿越","leading_role":"陈昂","image_path_min":"files/book/cover/21541/cover_120.jpg","author_name":"辰一十一","image_path":"files/book/cover/21541/cover.jpg","customer_url":"huanxiangshijiedachuanyue"}]

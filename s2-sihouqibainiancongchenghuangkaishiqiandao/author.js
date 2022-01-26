@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"超品巫师","leading_role":"九灯和善","image_path_min":"files/book/cover/35448/cover_120.jpg","author_name":"九灯和善","image_path":"files/book/cover/35448/cover.jpg","customer_url":"chaopinwushi"}]

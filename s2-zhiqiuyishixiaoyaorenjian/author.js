@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我就是神！","leading_role":"历史里吹吹风","image_path_min":"files/book/cover/64605/cover_120.jpg","author_name":"历史里吹吹风","image_path":"files/book/cover/64605/cover.jpg","customer_url":"s2-wojiushishen"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"网瘾少年刘禅之崛起","leading_role":"爱喝甜辣酱","image_path_min":"files/book/cover/63394/cover_120.jpg","author_name":"爱喝甜辣酱","image_path":"files/book/cover/63394/cover.jpg","customer_url":"s2-wangyinshaonianliuchanzhijueqi"}]

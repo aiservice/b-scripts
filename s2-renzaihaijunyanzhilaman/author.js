@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"海贼之恋爱系统","leading_role":"洛城太守","image_path_min":"files/book/cover/63625/cover_120.jpg","author_name":"洛城太守","image_path":"files/book/cover/63625/cover.jpg","customer_url":"s2-haizeizhilianaixitong"}]

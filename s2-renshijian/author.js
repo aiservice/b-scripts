@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"两界搬运工","leading_role":"石闻","image_path_min":"files/book/cover/21503/cover_120.jpg","author_name":"石闻","image_path":"files/book/cover/21503/cover.jpg","customer_url":"liangjiebanyungong"}]

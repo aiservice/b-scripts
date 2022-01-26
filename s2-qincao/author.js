@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大秦：开局错把秦始皇当爹","leading_role":"爆更小熊猫","image_path_min":"files/book/cover/65016/cover_120.jpg","author_name":"爆更小熊猫","image_path":"files/book/cover/65016/cover.jpg","customer_url":"s2-daqinkaijucuobaqinshihuangdangdie"}]
