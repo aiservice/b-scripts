@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"超凡机械城","leading_role":"盲候","image_path_min":"files/book/cover/63429/cover_120.jpg","author_name":"盲候","image_path":"files/book/cover/63429/cover.jpg","customer_url":"s2-chaofanjixiecheng"}]

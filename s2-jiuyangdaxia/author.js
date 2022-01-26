@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"穷鬼的上下两千年","leading_role":"非玩家角色","image_path_min":"files/book/cover/28447/cover_120.jpg","author_name":"非玩家角色","image_path":"files/book/cover/28447/cover.jpg","customer_url":"qiongguideshangxialiangqiannian"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我的幻灵过于可爱","leading_role":"如倾如诉","image_path_min":"files/book/cover/65051/cover_120.jpg","author_name":"如倾如诉","image_path":"files/book/cover/65051/cover.jpg","customer_url":"s2-wodehuanlingguoyukeai"}]

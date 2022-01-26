@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"氪无不胜","leading_role":"沧澜波涛短","image_path_min":"files/book/cover/29390/cover_120.jpg","author_name":"沧澜波涛短","image_path":"files/book/cover/29390/cover.jpg","customer_url":"kewubusheng"}]
