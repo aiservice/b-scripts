@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"哈利波特之我是传奇","leading_role":"纠结于名","author_name":"纠结于名","image_path":"files/book/cover/31513/cover.jpg","customer_url":"halibotezhiwoshichuanqi"}]

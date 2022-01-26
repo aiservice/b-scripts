@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我在黄泉有座房","leading_role":"过水看娇","image_path_min":"files/book/cover/63827/cover_120.jpg","author_name":"过水看娇","image_path":"files/book/cover/63827/cover.jpg","customer_url":"s2-wozaihuangquanyouzuofang"}]

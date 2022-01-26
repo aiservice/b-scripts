@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"巫师之旅","leading_role":"一行白鹭上青天","image_path_min":"files/book/cover/62580/cover_120.jpg","author_name":"一行白鹭上青天","image_path":"files/book/cover/62580/cover.jpg","customer_url":"s2-wushizhilv"}]
