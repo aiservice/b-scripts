@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大龙挂了","leading_role":"白雨涵","image_path_min":"files/book/cover/29717/cover_120.jpg","author_name":"白雨涵","image_path":"files/book/cover/29717/cover.jpg","customer_url":"dalongguale"}]

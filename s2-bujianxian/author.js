@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"前浪","leading_role":"刀一耕","image_path_min":"files/book/cover/63310/cover_120.jpg","author_name":"刀一耕","image_path":"files/book/cover/63310/cover.jpg","customer_url":"s2-qianlang"}]

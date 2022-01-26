@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"全能游戏设计师","leading_role":"青衫取醉","image_path_min":"files/book/cover/28341/cover_120.jpg","author_name":"青衫取醉","image_path":"files/book/cover/28341/cover.jpg","customer_url":"quannengyouxishejishi"}]
