@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"从我是特种兵开始一键回收","leading_role":"紫兰幽幽","image_path_min":"files/book/cover/63379/cover_120.jpg","author_name":"紫兰幽幽","image_path":"files/book/cover/63379/cover.jpg","customer_url":"s2-congwoshitezhongbingkaishiyijianhuishou"}]

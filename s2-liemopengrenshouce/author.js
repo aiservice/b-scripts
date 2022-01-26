@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"恶魔囚笼","leading_role":"颓废龙","image_path_min":"files/book/cover/21891/cover_120.jpg","author_name":"颓废龙","image_path":"files/book/cover/21891/cover.jpg","customer_url":"emoqiulong"}]

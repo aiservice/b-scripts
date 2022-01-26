@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"大明文魁","leading_role":"林延潮","image_path_min":"files/book/cover/21868/cover_120.jpg","author_name":"幸福来敲门","image_path":"files/book/cover/21868/cover.jpg","customer_url":"damingwenkui"}]

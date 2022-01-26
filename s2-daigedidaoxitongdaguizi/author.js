@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"海贼王之武道家","leading_role":"拉风狂人扫天","image_path_min":"files/book/cover/22604/cover_120.jpg","author_name":"拉风狂人扫天","image_path":"files/book/cover/22604/cover.jpg","customer_url":"haizeiwangzhiwudaojia"}]
