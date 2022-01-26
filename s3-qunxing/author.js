@@ -1,1 +1,1 @@
-var authorList=[{"book_name":"小镇奇谈","leading_role":"七月","author_name":"七月","image_path":"files/book/cover/65206/cover.jpg","customer_url":"s3-xiaozhenqitan"}]
+var authorList=[{"image_path_min":"/files/book/cover/65206/cover.jpg","author_name":"七月","customer_url":"s3-xiaozhenqitan","image_path":"/files/book/cover/65206/cover.jpg","leading_role":"七月","book_name":"小镇奇谈"}]
