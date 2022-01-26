@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我只想自力更生","leading_role":"中秋月明","image_path_min":"files/book/cover/62704/cover_120.jpg","author_name":"中秋月明","image_path":"files/book/cover/62704/cover.jpg","customer_url":"s2-wozhixiangziligengsheng"}]

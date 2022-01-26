@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我真没想重生啊","leading_role":"柳岸花又明","author_name":"柳岸花又明","image_path":"files/book/cover/62713/cover.jpg","customer_url":"s2-wozhenmeixiangzhongshenga"}]
