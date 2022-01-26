@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我真不是角色球员","leading_role":"易文三不知","image_path_min":"files/book/cover/63145/cover_120.jpg","author_name":"易文三不知","image_path":"files/book/cover/63145/cover.jpg","customer_url":"s2-wozhenbushijueseqiuyuan"}]

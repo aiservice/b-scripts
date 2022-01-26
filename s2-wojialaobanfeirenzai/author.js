@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"驱魔人的自我修养","leading_role":"拥有福气","image_path_min":"files/book/cover/63557/cover_120.jpg","author_name":"拥有福气","image_path":"files/book/cover/63557/cover.jpg","customer_url":"s2-qumorendeziwoxiuyang"}]

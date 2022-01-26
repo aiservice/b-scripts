@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"在港综成为传说","leading_role":"凤嘲凰","author_name":"凤嘲凰","image_path":"files/book/cover/62940/cover.jpg","customer_url":"s2-zaigangzongchengweichuanshuo"}]

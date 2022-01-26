@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"学霸的日本女友","leading_role":"转角吻猪","image_path_min":"files/book/cover/63336/cover_120.jpg","author_name":"转角吻猪","image_path":"files/book/cover/63336/cover.jpg","customer_url":"s2-xuebaderibennvyou"}]

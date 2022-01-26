@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"苟了十年我怎么成海军大将了","leading_role":"你吃车厘子","image_path_min":"files/book/cover/62998/cover_120.jpg","author_name":"你吃车厘子","image_path":"files/book/cover/62998/cover.jpg","customer_url":"s2-gouleshinianwozenmechenghaijundajiangle"}]

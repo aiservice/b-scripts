@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"骨舟记","leading_role":"石章鱼","image_path_min":"files/book/cover/63123/cover_120.jpg","author_name":"石章鱼","image_path":"files/book/cover/63123/cover.jpg","customer_url":"s2-guzhouji"}]

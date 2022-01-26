@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"最强轮回大佬","leading_role":"影荼","image_path_min":"files/book/cover/63563/cover_120.jpg","author_name":"影荼","image_path":"files/book/cover/63563/cover.jpg","customer_url":"s2-zuiqianglunhuidalao"}]
